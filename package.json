@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "@draggable-gird-labs/monorepo",
+  "packageManager": "pnpm@8.15.9",
+  "author": "Pengsha Ying <yingfusheng@foxmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/yingpengsha/draggable-grid-labs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingpengsha/draggable-grid-labs.git"
+  },
+  "bugs": "https://github.com/yingpengsha/draggable-grid-labs/issues",
+  "keywords": [],
+  "sideEffects": false
+}
