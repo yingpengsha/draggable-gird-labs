@@ -13,6 +13,7 @@
   "keywords": [],
   "sideEffects": false,
   "scripts": {
-    "dev": "pnpm run --filter @draggable-gird-labs/website dev"
+    "dev": "pnpm run --filter @draggable-gird-labs/website dev",
+    "build": "pnpm run --filter @draggable-gird-labs/website build"
   }
 }
