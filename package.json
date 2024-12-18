@@ -11,5 +11,8 @@
   },
   "bugs": "https://github.com/yingpengsha/draggable-grid-labs/issues",
   "keywords": [],
-  "sideEffects": false
+  "sideEffects": false,
+  "scripts": {
+    "dev": "pnpm run --filter @draggable-gird-labs/website dev"
+  }
 }
