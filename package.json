@@ -1,7 +1,7 @@
 {
-  "private": true,
   "name": "@draggable-gird-labs/monorepo",
-  "packageManager": "pnpm@8.15.9",
+  "private": true,
+  "packageManager": "pnpm@9.15.2",
   "author": "Pengsha Ying <yingfusheng@foxmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/yingpengsha/draggable-grid-labs#readme",
@@ -15,5 +15,13 @@
   "scripts": {
     "dev": "pnpm run --filter @draggable-gird-labs/website dev",
     "build": "pnpm run --filter @draggable-gird-labs/website build"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@stylistic/eslint-plugin": "^2.12.1",
+    "eslint": "^9.15.0",
+    "eslint-plugin-react": "^7.37.3",
+    "globals": "^15.12.0",
+    "typescript-eslint": "^8.15.0"
   }
 }
