@@ -1,10 +1,10 @@
-import { Text } from '@radix-ui/themes'
+import { Typography } from 'antd'
 
 function App() {
   return (
-    <Text>
+    <Typography.Text>
       Draggable Grid Labs
-    </Text>
+    </Typography.Text>
   )
 }
 
